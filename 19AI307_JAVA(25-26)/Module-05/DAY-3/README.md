@@ -21,8 +21,8 @@ To write user information (name, age, email) into a text file using `FileWriter`
  ```
 /*
 Program to implement a file handling using Java
-Developed by : NIRAUNJANA GAYATHRI G R
-RegisterNumber : 212222230096
+Developed by : SAMUEL M
+RegisterNumber : 212222040142
 */
 ```
 
