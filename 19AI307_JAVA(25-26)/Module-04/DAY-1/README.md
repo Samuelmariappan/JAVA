@@ -21,8 +21,8 @@ To write a Java program to demonstrate NullPointerException when calling .toStri
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by : NIRAUNJANA GAYATHRI G R
-RegisterNumber : 212222230096 
+Developed by : SAMUEL M
+RegisterNumber : 212222040142
 */
 ```
 
